@@ -30,6 +30,8 @@ Libraries incorporated: Pandas and Numpy
 Be free to pull the code and modify it in any way you think you can make it better.
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **Courtesy of Moringa School Data Science class**
+*MIT License*
+Copyright (c) 2021 Harrieth Rotich
+
+**Courtesy of Moringa School Data Science class**
   
